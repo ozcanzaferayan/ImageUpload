@@ -1,0 +1,26 @@
+c:\users\-zaferayan-\documents\visual studio 2012\Projects\ImageUpload\ImageUpload\bin\Debug\ImageUpload.exe.config
+C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\ImageUpload\ImageUpload\bin\Debug\ImageUpload.exe
+C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\ImageUpload\ImageUpload\bin\Debug\ImageUpload.pdb
+C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\ImageUpload\ImageUpload\obj\Debug\ImageUpload.csprojResolveAssemblyReference.cache
+C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\ImageUpload\ImageUpload\obj\Debug\MainWindow.baml
+C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\ImageUpload\ImageUpload\obj\Debug\MainWindow.g.cs
+C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\ImageUpload\ImageUpload\obj\Debug\App.g.cs
+C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\ImageUpload\ImageUpload\obj\Debug\ImageUpload_MarkupCompile.cache
+C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\ImageUpload\ImageUpload\obj\Debug\ImageUpload.g.resources
+C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\ImageUpload\ImageUpload\obj\Debug\ImageUpload.Properties.Resources.resources
+C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\ImageUpload\ImageUpload\obj\Debug\ImageUpload.csproj.GenerateResource.Cache
+C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\ImageUpload\ImageUpload\obj\Debug\ImageUpload.exe
+C:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\ImageUpload\ImageUpload\obj\Debug\ImageUpload.pdb
+D:\yedek\Projeler\ImageUpload\ImageUpload\bin\Debug\ImageUpload.exe.config
+D:\yedek\Projeler\ImageUpload\ImageUpload\obj\Debug\ImageUpload.exe
+D:\yedek\Projeler\ImageUpload\ImageUpload\obj\Debug\ImageUpload.pdb
+D:\yedek\Projeler\ImageUpload\ImageUpload\bin\Debug\ImageUpload.exe
+D:\yedek\Projeler\ImageUpload\ImageUpload\bin\Debug\ImageUpload.pdb
+D:\yedek\Projeler\ImageUpload\ImageUpload\obj\Debug\ImageUpload.csprojResolveAssemblyReference.cache
+D:\yedek\Projeler\ImageUpload\ImageUpload\obj\Debug\MainWindow.baml
+D:\yedek\Projeler\ImageUpload\ImageUpload\obj\Debug\MainWindow.g.cs
+D:\yedek\Projeler\ImageUpload\ImageUpload\obj\Debug\App.g.cs
+D:\yedek\Projeler\ImageUpload\ImageUpload\obj\Debug\ImageUpload_MarkupCompile.cache
+D:\yedek\Projeler\ImageUpload\ImageUpload\obj\Debug\ImageUpload.g.resources
+D:\yedek\Projeler\ImageUpload\ImageUpload\obj\Debug\ImageUpload.Properties.Resources.resources
+D:\yedek\Projeler\ImageUpload\ImageUpload\obj\Debug\ImageUpload.csproj.GenerateResource.Cache
